@@ -7,3 +7,6 @@
 [submodule "libs/parsers"]
 	path = libs/parsers
 	url = https://github.com/the-man-with-a-golden-mind/parsers
+[submodule "libs/shot"]
+	path = libs/shot
+	url = https://github.com/the-man-with-a-golden-mind/shot
