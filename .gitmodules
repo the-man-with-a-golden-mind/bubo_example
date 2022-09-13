@@ -1,0 +1,9 @@
+[submodule "libs/bubo"]
+	path = libs/bubo
+	url = https://github.com/the-man-with-a-golden-mind/bubo
+[submodule "libs/cmd"]
+	path = libs/cmd
+	url = https://github.com/the-man-with-a-golden-mind/cmd
+[submodule "libs/parsers"]
+	path = libs/parsers
+	url = https://github.com/the-man-with-a-golden-mind/parsers
