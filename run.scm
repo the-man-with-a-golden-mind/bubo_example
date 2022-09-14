@@ -1,4 +1,6 @@
-(define *path* (cons "./libs" (cons "../" *path*)))
+#!/usr/bin/env ol
+
+(define *path* (cons* "./libs"  "../" *path*))
 
 (import (bubo server))
 (import (bubo match))
